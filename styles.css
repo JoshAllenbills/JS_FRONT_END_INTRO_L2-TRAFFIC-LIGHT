@@ -35,4 +35,6 @@ body {
   .button{
     width: 65px;
     margin: 5px;
+    color: darkred;
+    background-color: forestgreen;
   }
